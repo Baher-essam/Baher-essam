@@ -16,7 +16,6 @@ I'm Baher Essam a Web Developer.
 <!-- TODO: Make technologies links takes you to repositories -->
 [![css Badge](https://img.shields.io/badge/-css-61DBFB?style=for-the-badge&labelColor=black&logo=css&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 <br />
