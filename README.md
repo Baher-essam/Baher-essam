@@ -5,23 +5,14 @@ I'm Baher Essam a Web Developer.
 
 :mailbox: Reach me out!
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-baher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baher-essam/) 
 [![Mail Badge](https://img.shields.io/badge/-baher-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baher.essam@gmail.com)
 
 <!-- TODO: Add last video link -->
-
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
 [![css Badge](https://img.shields.io/badge/-css-61DBFB?style=for-the-badge&labelColor=black&logo=css&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-
-
-<br />
-
-#### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1WcD2_F2txr8QOWFu8gIfGe6X-FsnseOu/view?usp=sharing)
-
 
 #### Profile Visits 
 
