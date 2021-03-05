@@ -6,10 +6,9 @@ I'm Baher Essam a Web Developer.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) 
-[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) 
-[![Linkedin Badge](https://img.shields.io/badge/-baher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baher-essam/) 
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baher.essam@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-baher-essam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baher-essam/) 
+[![Mail Badge](https://img.shields.io/badge/-baher-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baher.essam@gmail.com)
 
 <!-- TODO: Add last video link -->
 
