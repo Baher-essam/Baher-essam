@@ -1,5 +1,4 @@
 
-<summry>
 ## Hi I'm Baher E. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Baher Essam a Web Developer.
@@ -30,6 +29,5 @@ I'm Baher Essam a Web Developer.
 
 #### Github Stats
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&langs_count=5&layout=compact)](https://github.com/baher-essam/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&langs_count=5&layout=compact)](https://github.com/baher-essam/)<br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaherEssam)](https://github.com/anuraghazra/github-readme-stats)
-</summry>
