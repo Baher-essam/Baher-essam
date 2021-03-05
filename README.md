@@ -26,7 +26,7 @@ I'm Baher Essam a Web Developer.
 [![css Badge](https://img.shields.io/badge/-css-61DBFB?style=for-the-badge&labelColor=black&logo=css&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-<img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/labelColor=black&logo=javascript&logoColor=F0DB4F"/>
 
 ### languages
 
@@ -46,8 +46,5 @@ I'm Baher Essam a Web Developer.
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)
-
-
