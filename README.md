@@ -59,7 +59,7 @@ I'm Baher Essam a Web Developer.
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)
 
 
