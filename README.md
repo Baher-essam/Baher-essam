@@ -12,32 +12,17 @@ I'm Baher Essam a Web Developer.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
 #### Top Technologies
-
 <!-- TODO: Make technologies links takes you to repositories -->
-
 [![css Badge](https://img.shields.io/badge/-css-61DBFB?style=for-the-badge&labelColor=black&logo=css&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-<img src="https://img.shields.io/badge/labelColor=black&logo=javascript&logoColor=F0DB4F"/>
-
-### languages
 
 
-
-<br />
 <br />
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1WcD2_F2txr8QOWFu8gIfGe6X-FsnseOu/view?usp=sharing)
-- :email: baher.essam@gmail.com
 
 
 #### Profile Visits 
@@ -46,5 +31,5 @@ I'm Baher Essam a Web Developer.
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baher-essam)](https://github.com/anuraghazra/github-readme-stats)-->
