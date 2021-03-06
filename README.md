@@ -27,13 +27,15 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📈 GitHub Stats
+
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&langs_count=5&layout=compact&title_color=6aa6f8&text_color=38bcad&icon_color=6aa6f8&bg_color=1a1b27)](https://github.com/baher-essam/)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Baher-essam&theme=nord&column=7)](https
+[![trophy](https://github-profile-trophy.vercel.app/?username=Baher-essam&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧑‍💻  This week, I spent my time on:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaherEssam&line_height=27&title_color=6aa6f8&text_color=38bcad&icon_color=6aa6f8&bg_color=1a1b27)](https://github.com/anuraghazra/github-readme-stats)
