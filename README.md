@@ -5,8 +5,8 @@ I'm Baher Essam a Web Developer.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-baher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baher-essam/) 
-[![Mail Badge](https://img.shields.io/badge/-baher-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baher.essam@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baher-essam/) 
+[![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baher.essam@gmail.com)
 
 <!-- TODO: Add last video link -->
 #### Top Technologies
