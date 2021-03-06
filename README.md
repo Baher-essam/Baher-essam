@@ -3,11 +3,13 @@
 
 I'm Baher Essam a Web Developer.
 
-:mailbox: Reach me out!
 
+
+:mailbox: Reach me out!
+![GitHub followers](https://img.shields.io/github/followers/Baher-essam?label=Follow&style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baher-essam/) 
 [![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:baher.essam@gmail.com)
-
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://baher-essam.com/)](https://baher-essam.com/)
 <!-- TODO: Add last video link -->
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -15,8 +17,12 @@ I'm Baher Essam a Web Developer.
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
 #### Profile Visits 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Baher-essam)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Baher-essam&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Github Stats
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
