@@ -1,7 +1,7 @@
 
 # Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px" alt="Hi">
 
-#### I'm Baher Essam a passionate Web Developer and freenlancer from Egypt. I always working on myself to enhance my skills and developing them. I love being up to date with all the latest technologies, and always eager to learn everything about  Web-develop languages and user interface.
+#### I'm Baher Essam a passionate Web Developer and freelancer from Egypt. I am always working on myself to enhance my skills and develop them. I love being up to date with all the latest technologies, and always eager to learn everything about  Web-develop languages and user interfaces.
 
 ![GitHub followers](https://img.shields.io/github/followers/Baher-essam?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Baher-essam)
@@ -27,6 +27,7 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?baher-essam=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📈 GitHub Stats
