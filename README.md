@@ -34,7 +34,7 @@
 ![baher-essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baher-essam&theme=vue-dark&hide_border=true)
 ![baher-essam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Baher-essam&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Baher-essam&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧑‍💻  This week, I spent my time on:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BaherEssam&line_height=27&title_color=6aa6f8&text_color=38bcad&icon_color=6aa6f8&bg_color=1a1b27)](https://github.com/anuraghazra/github-readme-stats)
