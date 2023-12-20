@@ -28,10 +28,10 @@
 
 
 
-![baher-essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baher-essam&theme=vue-dark&hide_border=true)
 
 ## 📈 GitHub Stats
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
+![baher-essam's Stats](https://github-readme-stats.vercel.app/api?username=baher-essam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![baher-essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baher-essam&theme=vue-dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&langs_count=5&layout=compact&title_color=6aa6f8&text_color=38bcad&icon_color=6aa6f8&bg_color=1a1b27)](https://github.com/baher-essam/)
 
 ## 🏆 GitHub Trophies
