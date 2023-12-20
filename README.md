@@ -28,7 +28,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baher-essam&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![baher-essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baher-essam&theme=vue-dark&hide_border=true)
 
 ## 📈 GitHub Stats
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
