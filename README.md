@@ -27,12 +27,12 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?baher-essam=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Baher-essam=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📈 GitHub Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&langs_count=5&layout=compact&title_color=6aa6f8&text_color=38bcad&icon_color=6aa6f8&bg_color=1a1b27)](https://github.com/baher-essam/)
 
 ## 🏆 GitHub Trophies
