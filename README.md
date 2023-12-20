@@ -30,7 +30,7 @@
 
 
 ## 📈 GitHub Stats
-![baher-essam's Stats](https://github-readme-stats.vercel.app/api?username=baher-essam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![baher-essam's Stats](https://github-readme-stats.vercel.app/api?username=baher-essam&show=prs_merged_percentage&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![baher-essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baher-essam&theme=vue-dark&hide_border=true)
 ![baher-essam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🏆 GitHub Trophies
