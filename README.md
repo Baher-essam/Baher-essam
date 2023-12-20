@@ -23,16 +23,16 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/php.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/laravel.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/sqlserver.png"></code>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baher-essam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=baher-essam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Baher-essam&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs=ture)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baher-essam&langs_count=5&layout=compact&title_color=6aa6f8&text_color=38bcad&icon_color=6aa6f8&bg_color=1a1b27)](https://github.com/baher-essam/)
 
